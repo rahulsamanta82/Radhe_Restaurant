@@ -1,6 +1,7 @@
 <div align="center">
     <a href="https://sushi-2-fv.netlify.app" target="_blank">
       <img src="public/preview.webp" alt="Project Banner">
+      <img src="public/preview.webp" alt="Project Banner">
     </a>
   <h3 align="center">Sushi Restaurant</h3>
 </div>
@@ -45,5 +46,5 @@ git clone {git remote URL}
 
 <br/>**Running the Project**
 
-I recommend using [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+Install [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 to launch a development local Server with live reload feature for static & dynamic pages.
